@@ -28,3 +28,7 @@ notification.mp3
 /SwinIR
 /textual_inversion
 .vscode
+
+# plugin files
+/javascript/plg-*
+/scripts/plg-*
